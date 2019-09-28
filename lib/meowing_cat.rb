@@ -2,7 +2,8 @@
 class Cat 
   
   attr_accessor = :name 
-  maru = Cat.new 
+  maru_cat = Cat.new 
+  maru_cat = "Maru"
   
 
 def meow(name)
