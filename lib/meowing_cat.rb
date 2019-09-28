@@ -7,7 +7,7 @@ class Cat
   
   
 
-def meow(name)
+def meow(Cat)
   puts "meow!"
   end 
 end 
